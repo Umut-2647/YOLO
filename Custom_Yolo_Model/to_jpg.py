@@ -10,4 +10,5 @@ for j in jpeg:
     cv2.imwrite(j[:-4]+"jpg", img) # jpeg uzantılı dosyaları jpg'ye çevir
     os.remove(j) # jpeg uzantılı dosyaları sil
 
+
 print("Tüm jpeg dosyalari jpg'ye çevrildi ve silindi.")  

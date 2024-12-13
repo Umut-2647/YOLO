@@ -34,3 +34,4 @@ while True:
 
 cap.release()
 print("Tüm uygun kareler kaydedildi.")
+

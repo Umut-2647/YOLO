@@ -34,3 +34,4 @@ with open(output_file, "w") as file:
 
 # Sonuç mesajı
 print(f"Toplam {counter} dosya listelendi ve silindi. Yollar '{output_file}' dosyasina kaydedildi.")
+

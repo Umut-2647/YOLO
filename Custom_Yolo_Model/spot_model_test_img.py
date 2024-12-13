@@ -20,8 +20,7 @@ img_blob = cv2.dnn.blobFromImage(img, 1/255, (416,416),swapRB=True,crop=False)
 """print(img_blob.shape) #blob formatinda resmin boyutu"""
 
 
-
-labels=["SpotDynamicBoston"]
+labels=["BostonDynamicsSpot"]
 
 
 #her labela karsilik gelen renk veriyoruz

@@ -29,7 +29,8 @@ while True:
 
 
 #yolonun tespit edebildigi 80 farkli nesne var
-    labels=["SpotDynamicBoston"]
+    labels=["BostonDynamicsSpot"]
+
 
 #her labela karsilik gelen renk veriyoruz
     colors=["0,255,255","0,0,255","255,0,0","255,255,0","0,255,0"]
